@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+chatterbot
+chatterbot-corpus
+spacy==2.1.3
+aiofiles
